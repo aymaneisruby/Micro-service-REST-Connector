@@ -1,5 +1,42 @@
 # Micro-service-REST-Connector
 
+* ## Objectifs : 
+
+<p align="justify">Pour créer un microservice de gestion de comptes bancaires en utilisant Spring Boot, vous pouvez suivre les étapes suivantes :</p>
+
+* ### Créez un projet Spring Boot : 
+<p align="justify">Créez un nouveau projet Spring Boot en utilisant un outil de votre choix, tel que Spring Initializr. Ajoutez les dépendances nécessaires, y compris Web, Spring Data JPA, H2 (base de données en mémoire) et Lombok.</p>
+
+* ### Créez l'entité JPA Compte : 
+<p align="justify">Définissez une classe Compte qui représente l'entité Compte bancaire. Ajoutez les annotations JPA appropriées pour la persistance des données, telles que @Entity, @Id, @GeneratedValue, etc. Définissez les attributs tels que le numéro de compte, le solde, le titulaire du compte, etc.</p>
+
+* ### Créez l'interface CompteRepository : 
+<p align="justify">Créez une interface CompteRepository en utilisant Spring Data JPA. Cette interface héritera de l'interface JpaRepository et vous donnera un ensemble de méthodes prédéfinies pour effectuer des opérations CRUD sur l'entité Compte.</p>
+
+* ### Testez la couche DAO : 
+<p align="justify">Vous pouvez écrire des tests unitaires pour tester la couche DAO (Data Access Object) en utilisant un framework de test, tel que JUnit. Vous pouvez tester les méthodes du CompteRepository pour vérifier si elles fonctionnent correctement, par exemple, en ajoutant des comptes, en les récupérant, en les mettant à jour, etc.</p>
+
+* ### Créez le service web RESTful : 
+<p align="justify">Créez les endpoints REST pour gérer les opérations CRUD sur les comptes bancaires. Vous pouvez utiliser des annotations telles que @RestController, @GetMapping, @PostMapping, @PutMapping, @DeleteMapping, etc., pour définir les endpoints correspondants à chaque opération.</p>
+
+* ### Testez le microservice web en utilisant un client REST comme Postman : 
+<p align="justify">Utilisez un client REST tel que Postman pour tester les endpoints REST que vous avez créés. Vous pouvez envoyer des requêtes GET, POST, PUT, DELETE pour vérifier si les opérations de gestion des comptes fonctionnent comme prévu.</p>
+
+* ### Générez et testez la documentation Swagger des API REST du microservice : 
+<p align="justify">Utilisez la bibliothèque Springfox ou une autre bibliothèque compatible Swagger pour générer automatiquement la documentation de vos API REST. Vous pouvez accéder à la documentation générée et tester les API directement depuis l'interface Swagger.</p>
+
+* ### Exposez une API RESTful en utilisant Spring Data Rest en exploitant des projections :
+<p align="justify">Si vous souhaitez exposer une API RESTful basée sur Spring Data Rest, vous pouvez annoter votre interface CompteRepository avec @RepositoryRestResource et utiliser des projections pour personnaliser les données renvoyées par l'API.</p>
+
+* ### Créez les DTOs (Data Transfer Objects) et Mappers : 
+Définissez les DTOs pour transférer les données entre le client et le microservice. Vous pouvez utiliser des bibliothèques de mappage telles que ModelMapper ou MapStruct pour mapper les entités JPA aux DTOs et vice versa.</p>
+
+* ### Créez la couche Service (métier) du microservice : 
+<p align="justify">Créez une couche Service pour implémenter la logique métier associée à la gestion des comptes bancaires. Cette couche peut inclure des opérations telles que le virement, la consultation du solde, la recherche de comptes, etc. Les services peuvent interagir avec le CompteRepository pour effectuer les opérations de persistance nécessaires.</p>
+
+<p align="justify">N'oubliez pas de configurer correctement votre application Spring Boot en ajoutant les annotations et les fichiers de configuration appropriés, tels que @SpringBootApplication, application.properties, etc.</p>
+
+
 <img width="503" alt="1" src="https://github.com/aymaneisruby/Micro-service-REST-Connector/assets/105078337/8bb49641-4206-4528-98e6-7994a36dc6c7">
 <img width="503" alt="2" src="https://github.com/aymaneisruby/Micro-service-REST-Connector/assets/105078337/86e1f198-ce9a-438b-974b-c50f13423666">
 <img width="960" alt="3" src="https://github.com/aymaneisruby/Micro-service-REST-Connector/assets/105078337/480e3a26-8869-44f5-af6f-b23c9ccbef4e">
