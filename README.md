@@ -76,6 +76,30 @@ Définissez les DTOs pour transférer les données entre le client et le microse
 <img width="960" alt="38" src="https://github.com/aymaneisruby/Micro-service-REST-Connector/assets/105078337/45beba70-330f-4307-8af0-fe25f3191083">
 <img width="960" alt="39" src="https://github.com/aymaneisruby/Micro-service-REST-Connector/assets/105078337/37b52e49-1dfe-472f-8022-ce418a6872e5">
 <img width="960" alt="40" src="https://github.com/aymaneisruby/Micro-service-REST-Connector/assets/105078337/8d0a22f8-c532-4749-9c9a-9cedb5e1c713">
+<img width="960" alt="41" src="https://github.com/aymaneisruby/Micro-service-REST-Connector/assets/105078337/1f19639c-a5ee-4495-90f8-646d008ed152">
+<img width="960" alt="42" src="https://github.com/aymaneisruby/Micro-service-REST-Connector/assets/105078337/6d2fa638-b69f-4229-a841-7f5ecbdb1f9e">
+<img width="960" alt="43" src="https://github.com/aymaneisruby/Micro-service-REST-Connector/assets/105078337/06b99e91-67c5-4170-9080-d692af81067d">
+<img width="960" alt="44" src="https://github.com/aymaneisruby/Micro-service-REST-Connector/assets/105078337/47825ba5-4647-41d6-9349-80087243d0af">
+<img width="960" alt="45" src="https://github.com/aymaneisruby/Micro-service-REST-Connector/assets/105078337/8f432f79-6368-46a1-8614-185750465629">
+<img width="960" alt="46" src="https://github.com/aymaneisruby/Micro-service-REST-Connector/assets/105078337/0f961cc4-22c2-4309-9b2a-8bc1ba5c5b8e">
+<img width="960" alt="47" src="https://github.com/aymaneisruby/Micro-service-REST-Connector/assets/105078337/d35b3274-07e5-4f51-8dd3-1483af48bd88">
+<img width="960" alt="48" src="https://github.com/aymaneisruby/Micro-service-REST-Connector/assets/105078337/c47bb5d0-a3f8-4e7a-abc3-0c262320f12d">
+<img width="960" alt="49" src="https://github.com/aymaneisruby/Micro-service-REST-Connector/assets/105078337/378f439c-9e7b-4a4a-a4fd-a74ae5a75025">
+<img width="960" alt="50" src="https://github.com/aymaneisruby/Micro-service-REST-Connector/assets/105078337/0d7fc065-25f1-4fc3-ae5f-46bfe620040e">
+<img width="960" alt="51" src="https://github.com/aymaneisruby/Micro-service-REST-Connector/assets/105078337/d05852b9-9849-46b8-9187-03558a8da043">
+<img width="960" alt="52" src="https://github.com/aymaneisruby/Micro-service-REST-Connector/assets/105078337/528ef1cc-dfe5-4c8d-aea7-00bc69eee868">
+<img width="960" alt="53" src="https://github.com/aymaneisruby/Micro-service-REST-Connector/assets/105078337/263206d2-eb64-4045-a2b5-e2f39bc75798">
+<img width="960" alt="54" src="https://github.com/aymaneisruby/Micro-service-REST-Connector/assets/105078337/88eb8f12-6045-40e6-a92b-299d1a3492e4">
+<img width="960" alt="55" src="https://github.com/aymaneisruby/Micro-service-REST-Connector/assets/105078337/c4e5a629-f2fe-481f-89f1-8cd72d431d94">
+<img width="960" alt="56" src="https://github.com/aymaneisruby/Micro-service-REST-Connector/assets/105078337/5aaa05e5-59ca-4840-98af-28228f59a693">
+<img width="960" alt="57" src="https://github.com/aymaneisruby/Micro-service-REST-Connector/assets/105078337/860affb2-b1a1-4f85-8a8c-13c6711d48d1">
+<img width="960" alt="58" src="https://github.com/aymaneisruby/Micro-service-REST-Connector/assets/105078337/87fc5404-a3f8-4cfc-95c2-7d5a2730ced9">
+<img width="960" alt="59" src="https://github.com/aymaneisruby/Micro-service-REST-Connector/assets/105078337/63f4e4cb-99cb-4a59-91de-10b0d89f58cd">
+<img width="960" alt="60" src="https://github.com/aymaneisruby/Micro-service-REST-Connector/assets/105078337/c162b614-8e33-4ae2-941f-0e70629a675d">
+<img width="960" alt="61" src="https://github.com/aymaneisruby/Micro-service-REST-Connector/assets/105078337/d3707c11-74f7-47d5-811c-c4d55fb4ffb5">
+<img width="960" alt="62" src="https://github.com/aymaneisruby/Micro-service-REST-Connector/assets/105078337/6a90fbc0-b8b4-44b5-86a1-73f44267d41e">
+<img width="388" alt="63" src="https://github.com/aymaneisruby/Micro-service-REST-Connector/assets/105078337/5c2a4d86-3974-4513-8d30-9c8cdecf0785">
+<img width="960" alt="64" src="https://github.com/aymaneisruby/Micro-service-REST-Connector/assets/105078337/ec844a60-edc4-40ea-8f7f-ea1615addf85">
 
 
 
