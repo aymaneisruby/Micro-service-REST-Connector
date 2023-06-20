@@ -102,4 +102,24 @@ Définissez les DTOs pour transférer les données entre le client et le microse
 <img width="388" alt="63" src="https://github.com/aymaneisruby/Micro-service-REST-Connector/assets/105078337/b685a10c-ff77-4d0e-88c7-47c72dadf035">
 <img width="960" alt="64" src="https://github.com/aymaneisruby/Micro-service-REST-Connector/assets/105078337/e49df145-d390-4841-9ee0-04c88e4e59f0">
 
+<img width="503" alt="1" src="https://github.com/aymaneisruby/Micro-service-REST-Connector/assets/105078337/c6be4b66-f1e8-4a7d-b264-328d13dabdc6">
+<img width="503" alt="2" src="https://github.com/aymaneisruby/Micro-service-REST-Connector/assets/105078337/48725ed2-64db-4618-a27a-91bccc455361">
+<img width="960" alt="3" src="https://github.com/aymaneisruby/Micro-service-REST-Connector/assets/105078337/f2bece14-3d74-4fd6-b650-8b9aeace0916">
+<img width="960" alt="4" src="https://github.com/aymaneisruby/Micro-service-REST-Connector/assets/105078337/987eee8e-8ce7-4381-bf25-f5b5ff005cfd">
+<img width="512" alt="5" src="https://github.com/aymaneisruby/Micro-service-REST-Connector/assets/105078337/206d546a-d382-46e8-9666-0dc9cf247b74">
+<img width="960" alt="6" src="https://github.com/aymaneisruby/Micro-service-REST-Connector/assets/105078337/b4adf591-e81e-46d6-8446-5e26770ec093">
+<img width="512" alt="7" src="https://github.com/aymaneisruby/Micro-service-REST-Connector/assets/105078337/43ce6791-a259-454f-af81-a7d80925a04c">
+<img width="512" alt="8" src="https://github.com/aymaneisruby/Micro-service-REST-Connector/assets/105078337/b92e9f5d-da90-4727-b25a-e936af6334c3">
+<img width="512" alt="9" src="https://github.com/aymaneisruby/Micro-service-REST-Connector/assets/105078337/fc834983-a934-46b3-a50d-a534e280b6c2">
+<img width="960" alt="10" src="https://github.com/aymaneisruby/Micro-service-REST-Connector/assets/105078337/e96131c5-244d-419a-afb3-bf8dec08e7e7">
+<img width="960" alt="11" src="https://github.com/aymaneisruby/Micro-service-REST-Connector/assets/105078337/d4253f6a-59d3-4699-b506-a130736d79e0">
+<img width="512" alt="12" src="https://github.com/aymaneisruby/Micro-service-REST-Connector/assets/105078337/568ab74e-acc9-42d2-94c2-f0186aedd584">
+<img width="512" alt="13" src="https://github.com/aymaneisruby/Micro-service-REST-Connector/assets/105078337/a0869638-0305-4896-90b4-93880487405a">
+<img width="960" alt="14" src="https://github.com/aymaneisruby/Micro-service-REST-Connector/assets/105078337/3db8e12b-3f87-40a6-806a-3b400d34fcc4">
+<img width="960" alt="15" src="https://github.com/aymaneisruby/Micro-service-REST-Connector/assets/105078337/7b39a4b9-b93c-4d45-b2e0-cafaeaea2053">
+<img width="960" alt="16" src="https://github.com/aymaneisruby/Micro-service-REST-Connector/assets/105078337/0fc72641-db07-49fe-94ec-62960895f43b">
+<img width="960" alt="17" src="https://github.com/aymaneisruby/Micro-service-REST-Connector/assets/105078337/dcdffaee-b1d6-4444-b07b-731c3eb27d26">
+<img width="960" alt="18" src="https://github.com/aymaneisruby/Micro-service-REST-Connector/assets/105078337/c10f0c4f-c25b-4fac-a1ad-cb0fe1e39b48">
+<img width="960" alt="19" src="https://github.com/aymaneisruby/Micro-service-REST-Connector/assets/105078337/e4ef4462-498a-4cc0-a55d-7f99d10d1935">
+<img width="960" alt="20" src="https://github.com/aymaneisruby/Micro-service-REST-Connector/assets/105078337/be5b1cf1-e933-4ba2-ae20-a1b605876873">
 
